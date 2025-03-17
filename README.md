@@ -20,5 +20,9 @@ To get started, clone this repository to your local machine using the following 
 
 <pre>
 ```bash
-rm -rf Auto-Comment
+rm -rf Auto-Comment-
 git clone https://github.com/S4H1L09/Auto-Comment-
+cd Auto-Comment-
+git pull
+pip install -r requirements.txt
+python python post-cookies.py
