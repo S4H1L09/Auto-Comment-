@@ -24,5 +24,5 @@ rm -rf Auto-Comment-
 git clone https://github.com/S4H1L09/Auto-Comment-
 cd Auto-Comment-
 git pull
-pip install -r requirements.txt
+python setup.py
 python post-cookies.py
